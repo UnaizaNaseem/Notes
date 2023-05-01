@@ -25,4 +25,6 @@
     <td>In SRE, engineers use scripting languages like Python or Bash instead of scripting languages like Ruby or NodeJS.</td>
   </tr>
 </table>
-  
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/73931604/235431748-16b03792-3299-4e61-bbd5-96cf5a1e793a.png">
+  </p>
