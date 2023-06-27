@@ -1,2 +1,2 @@
 # Notes
-Starting this to keep track of #100daysofcode challenge in which i will be learning DevOps primarily while also focusing on AI.
+Starting this for the purpose of Bytewise fellowship/internship for DevOps.
