@@ -13,6 +13,10 @@
 - IaC simplifies infrastructure management, improves efficiency, and ensures reliability.
 - Examples: Terraform, AWS CloudFormation, Azure Resource Manager.
 - IaC uses code-based configurations for versioning, reusability, and sharing.
+  
+ <p align="center">
+<img src="https://github.com/UnaizaNaseem/Notes/assets/73931604/d583add2-5e27-4b76-8e91-c75e182ce1d5"></p>
+
 
 <h2 align="center">Why Terraform?</h2>
 
@@ -21,6 +25,11 @@
 - Helps monitor changes to resources.
 - Configurations can be shared and collaborated using version control.
 
+<p align="center">
+<img src="https://github.com/UnaizaNaseem/Notes/assets/73931604/bf735dff-ad03-433a-a6b2-7e60adb5e098">
+</p>
+
+
 <h2 align="center">Deploy infrastructure using Terraform</h2>
 
 - Identify the infrastructure needed for your project.
@@ -28,3 +37,7 @@
 - Install the necessary plugins for Terraform to manage the infrastructure.
 - Preview the changes Terraform will make based on your configuration.
 - Execute the planned changes to the infrastructure.
+
+<p align="center">
+<img src="https://github.com/UnaizaNaseem/Notes/assets/73931604/40ea1966-f21f-48d7-8385-beaf5408cbce">
+</p>
