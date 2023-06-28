@@ -1,0 +1,9 @@
+- Jenkins
+- Linux Commands
+- Ansible course
+- Microservices (https://microservices.io/)
+- Advanced Jenkins for Continuous Integration
+- Advanced Terraform for Infrastructure as Code
+- Advanced Monitoring and Logging Logging with ELK Stack
+- Advanced Ansible for Configuration Management
+- Security in DevOps
